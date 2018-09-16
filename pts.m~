@@ -1,0 +1,17 @@
+%% Prep test sheet (pts) 
+
+
+% random word arrangement generator: index
+
+index=randperm(full_plate, j);
+index=index';
+
+% test sheet: deutsch + answers 
+
+for k=1:1
+  deutsch_element=deutsch(index(k,1),1);
+  english_element=
+    
+end
+    
+
